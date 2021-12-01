@@ -25,8 +25,6 @@ Buskstop is a social media platform for street performers, also known as buskers
 
 ## Authors
 
-Contributors names and contact info
-
 Sean McGovern
   * [smcgovern-proj] (https://github.com/smcgovern-proj)
 
